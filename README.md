@@ -10,7 +10,7 @@
 🌱 Learning NestJS<br>
 👯 Currently a Member of Saved View Service team<br>
 💬 Ask me about the Bentley Systems Graduate Development Program (GDP)<br>
-📫 How to reach me: +1 (484) 364 - 8206 or bryn.goldman@gmail.com<br>
+📫 How to reach me: +1 (484) 364-8206 or bryn.goldman@gmail.com<br>
 😄 Pronouns: she/they<br>
 ⚡ Recent Favorite Book: Project Hail Mary by Andy Weir<br>  
 </p>
