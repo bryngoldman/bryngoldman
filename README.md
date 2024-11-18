@@ -1,6 +1,6 @@
 ### Hi there, I'm Bryn 👋
 <div id="badges">
-  <a href="https://www.linkedin.com/in/bryn-goldman-penn-state" target="_blank">
+  <a href="https://www.linkedin.com/in/bryn-goldman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
